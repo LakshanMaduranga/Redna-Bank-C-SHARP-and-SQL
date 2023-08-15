@@ -1,0 +1,608 @@
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.AssemblyReference.cache
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.AddCustomer.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final\REDNA_BANK NW(2)\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.csprojAssemblyReference.cache
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lakshan\Desktop\haritha send 2021.12.11-12.39am\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.AssemblyReference.cache
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V2\REDNA_BANK\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.AssemblyReference.cache
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V3\REDNA_BANK_NEW\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.NewCalculator.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.currencyconverter.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.deleteadminstaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\REDNA_BANK.exe.config
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Guna.UI2.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\EnvDTE.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\stdole.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.AddNewCustomer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.AddStaffAdmin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Admindashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.currencyconverter.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.deleteadminstaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.EditCustomerDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.editstaff_admin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Email.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Loading.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Logs.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.NewCalculator.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Properties.Resources.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.RednaLogin.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboard.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.Transaction.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.ViewAdminStaff.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.ViewTransactionDetails.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.view_customer.resources
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.GenerateResource.cache
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\RdlCompile.cache
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\RdlCompile.compiled
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CoreCompileInputs.cache
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.CopyComplete
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.exe
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.pdb
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.csproj.AssemblyReference.cache
+C:\Users\Haritha\Desktop\Final Project\Final V5\REDNA_BANK almost done\REDNA_BANK\obj\Debug\REDNA_BANK.AdminHomePage.resources
+C:\Users\User\Desktop\REDNA_BANK\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AdminHomePage.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.currencyconverter.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.deleteadminstaff.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.NewCalculator.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboardHome.resources
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.AdminHomePage.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.deletecus.resources
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.StaffDashboardHome.resources
+C:\Users\User\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.deletecus.resources
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.exe.manifest
+C:\Users\DELL\Desktop\REDNA_BANK\bin\Debug\REDNA_BANK.application
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.exe.manifest
+C:\Users\DELL\Desktop\REDNA_BANK\obj\Debug\REDNA_BANK.application
